@@ -19,4 +19,4 @@ https://cosmic-douhua-02d1f6.netlify.app/
 To run the game locally:
 1. Clone the repository:
 
-   git clone https://gitlab.com/shubh2914749/simon-game
+   git clone https://github.com/Shubh-6657/Simon_Game
